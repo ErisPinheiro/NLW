@@ -7,7 +7,7 @@
 Projeto construido do evento 
 Next Level Week da Rocketseat.
 
-[Cliqye aqui para acessar](https://erispinheiro.github.io/NLW9-Esports-Explorer/)
+[Clique aqui para acessar](https://erispinheiro.github.io/NLW9-Esports-Explorer/)
 
 
 
